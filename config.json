@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "model": "openai",
+  "run_test": "python3 test_return.py",
+  "tags": ["test"]
+}
